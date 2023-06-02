@@ -1,6 +1,7 @@
 ### Hey 👋🏽, I'm Samuel! 
 #### Web Developer, Modder, Gamer, Nerd. 
 📫, [Join RavnForge Discord!](https://discord.io/valravnofficial);
+<br>
 📫, [Join ValRavn | Gaming and Role-play!](https://discord.io/valravnofficial) - A community of humble gamers and role-players, just looking for great people to make friends with and get lost in various adventurers with!;
 <br />
 
