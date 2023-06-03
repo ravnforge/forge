@@ -33,7 +33,7 @@ Let's connect 👨‍💻 and forge the future together.✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Be My First Star!](#)
+:star: [Feel like sharing a star?]([#](https://github.com/ravnforge?tab=stars))
 
 Credits to [@kautukkundan](https://github.com/kautukkundan) for the great readme templates!
 (If you are new to making awesome looking README.md files, check out his [repo](https://github.com/kautukkundan/Awesome-Profile-README-templates))
