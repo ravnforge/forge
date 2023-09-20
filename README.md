@@ -1,8 +1,8 @@
 ### Hey 👋🏽, I'm Samuel! 
 #### Web Developer, Modder, Gamer, Nerd. 
-📫, [Join RavnForge Discord!](https://discord.io/valravnofficial);
+📫, [Join RavnForge Discord!](https://dsc.gg/ravnforge);
 <br>
-📫, [Join ValRavn | Gaming and Role-play!](https://discord.io/valravnofficial) - A community of humble gamers and role-players, just looking for great people to make friends with and get lost in various adventurers with!;
+📫, [Join RavnForge | Gaming and Role-play!](https://dsc.gg/ravnforge) - A community of humble gamers and role-players, just looking for great people to make friends with and get lost in various adventurers with!;
 <br />
 
 Thanks for stopping by! My name is Samuel, but everyone calls me Raven! I am a Full Stack Developer 🚀 from Florida, and currently living in New York! I'm freelance and go under the developer name 🙍🏽‍♂️ [@RavnForge](https://discord.io/ravnforge). I'm a creative problem solving enthusiast, with a constantly growing love for computers, programming, and developing. Beyond all the lines of code and coffee sips, I enjoy getting lost in various games on PC, watching great movies with the family, and getting out of the house (occasionally :P) 
@@ -15,8 +15,8 @@ Thanks for stopping by! My name is Samuel, but everyone calls me Raven! I am a F
 - 🌱 I’m currently learning Rust; 
 - 👯 I’m looking to collaborate on web projects, modding projects;
 - 💬 I am happy to help where I can! Ask me anything;
-- ⚡️ Daily Inspiration: "Try to be a rainbow in someones cloud";
-- 📫 How to reach me: Message me on Discord ValRavn#9777;
+- ⚡️ Daily Inspiration: "To be better than I was yesterday";
+- 📫 How to reach me: Message me on Discord @ravnforgegaming;
 
 **Languages and Tools:**  
 
