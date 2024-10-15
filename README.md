@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm Samuel! But I develop things under the name RavnForge
 #### Web Developer, Modder, Gamer, Nerd. I tend to dabble in things here and there.
-📫, [Join [HEVN] my Discord community!]([https://dsc.gg/ravnforge](https://discord.gg/ZSDTCV6DAf));
+📫, Join [HEVN](https://discord.gg/ZSDTCV6DAf) my Discord community!;
 <br>
 📫, [HEVN] FiveM Role-play - My latest venture. Featuring top-notch premium and free scripts from across several developers!;
 <br />
